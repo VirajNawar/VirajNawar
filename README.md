@@ -1,5 +1,13 @@
 # 💫 About Me:
-I am presently engrossed in the LIT framework and React JS realms. I am actively seeking collaboration opportunities in backend technologies. Additionally, I am delving into the intricacies of Next JS and backend development.
+At this moment, I am deeply immersed in the sophisticated world of the LIT framework and React JS, exploring their advanced features and capabilities. My current focus extends beyond frontend technologies as I am actively pursuing collaborative ventures in backend systems, aiming to enhance my proficiency in this critical area. Furthermore, I am diligently unraveling the complexities of Next JS, alongside furthering my understanding of backend development, striving to integrate these elements into a cohesive and robust skill set.
+
+Ask Me:
+
+Feel free to inquire about my experiences with the LIT framework, React JS, or my explorations into backend technologies. I'm eager to discuss the nuances and challenges of these domains and share insights from my ongoing journey with Next JS.
+
+Fun Fact:
+
+Did you know that the LIT framework, renowned for its lightweight and efficient approach to web components, draws inspiration from the early web component standards? Its design emphasizes simplicity and performance, making it a compelling choice for modern web development.
 
 
 ## 🌐 Socials:
